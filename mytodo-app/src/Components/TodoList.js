@@ -4,7 +4,7 @@ function TodoList() {
   return (
     <div>
         <ul>
-            <li>task1</li>
+            <li></li>
         </ul>
     </div>
   )
