@@ -1,5 +1,7 @@
 .App {
   text-align: center;
+  background-color: rgb(4, 4, 71);
+  margin: 0px;
 }
 
 input{
@@ -31,12 +33,16 @@ li{
   width: 500px;
   margin-left: 400px;
   height: 400px;
+  padding-bottom: 5px;
+  margin-top: 0;
 }
 
 #add-button{
   border-radius: 4px;
-  background-color: rgb(119, 187, 73);
+  background-color: rgb(233, 189, 208);
   height: 30px;
+  font-size: 17px;
+  color: rgb(241, 10, 10);
 }
 
 .title{
@@ -46,8 +52,8 @@ li{
   margin-left: 400px;
   background-color: rgb(228, 203, 174);
   color: rgb(197, 30, 30);
-  border-top-right-radius: 8px;
-  border-top-left-radius: 8px;
+  margin-bottom: 0;
+  border-radius: 8px;
   
 }
 
