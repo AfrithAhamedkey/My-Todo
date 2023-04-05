@@ -1,11 +1,17 @@
 
 import './App.css';
+import Title from './Components/Title';
+import Input from './Components/Input';
+import TodoList from './Components/TodoList';
 
 function App() {
   return (
     <div className="App">
 
-      I am Afrith
+      
+      <Title/>
+      <Input/>
+      <TodoList/>
       
     </div>
   );
